@@ -360,7 +360,7 @@ Tasks are non-optional unless marked as "optional" or "homework".
 
 ### 4. (Optional) Update architecture
 
-1. Create the issue `[Task] Update architecture`.
+1. [ ] Create the issue `[Task] Update architecture`.
 2. [ ] In `./docs/architecture.md`:
     - [ ] In the `## Architectural drivers` section:
       - [ ] List 10-15 [architectural drivers](https://github.com/inno-se/the-guide?tab=readme-ov-file#architectural-drivers) for the system:
@@ -379,7 +379,7 @@ Tasks are non-optional unless marked as "optional" or "homework".
 
 ### 5. (Optional) Work on an agent
 
-1. Create the issue `[Task] Work on an agent`.
+1. [ ] Create the issue `[Task] Work on an agent`.
 2. [ ] In `docs/agent-idea.md`, sketch how an AI agent could:
     - [ ] Read `README.md`;
     - [ ] Generate `GitHub` issues automatically;
